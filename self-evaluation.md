@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? I am feeling pretty confident with it. Definitely had to do some hard searching to figure out how to square root things, but got that figured out as well.
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I believe it was a productive struggle. I definitely spent more time digging around on the internet today and my brain is a bit numb at the moment, but I do feel wiser for the struggle.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I would like to go back over everything from today to make sure it sticks. These seem like key concepts. I will be going back through them after dinner to help them stay in my brain.
+- What questions do you still have? How will you get the answers you need? I will continue to look through Ruby websites and such to better familiarize myself with the language. 
