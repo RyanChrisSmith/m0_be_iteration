@@ -6,7 +6,7 @@
 # Use the each method to print out a complete sentence stating the weather using the Array below:
 weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 weather_options.each do |weather_now|
-  puts "The weather looks " + weather_now + " today."
+  puts "The weather looks #{weather_now} today."
 end
 
 # Challenge 2
